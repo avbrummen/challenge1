@@ -1,7 +1,7 @@
 import numpy as np
 
 def vector_mean(vector):
-    """arithmetic mean of a series 
+    """arithmetic mean of a series meow meow
 
     Parameters
     ----------
